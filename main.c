@@ -11,7 +11,7 @@
 
 //-------------------------------------------------
 int main(int argc, const char* argv[]) {
-  slist_test();
+  list_test();
   dlist_test();
 
   return 0;

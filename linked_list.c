@@ -110,9 +110,3 @@ void linked_list_test() {
 
 
 }
-
-int main(int argc, const char* argv[]) {
-
-  linked_list_test;
-  return 0;
-}
